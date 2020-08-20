@@ -1,0 +1,2 @@
+anil="hello"
+print(anil)
